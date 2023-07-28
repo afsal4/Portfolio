@@ -1,0 +1,41 @@
+.rounded {
+    max-width: 250px;
+    border-radius: 50%;
+    align-items: center;
+}
+
+.vision {
+    width: 50%;
+}
+
+.vision-div {
+    display: flex;
+    justify-content: center;
+}
+
+#mmm {
+    margin-bottom: 100px;
+}
+
+
+.process-grids .w-img {
+    max-width: 500px;
+    min-height: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.last-ul {
+    display: flex;
+    margin-bottom: 20px;
+    flex-wrap: nowrap;
+}
+
+.last-ul img {
+    width: 100%;
+}
+
+    input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
